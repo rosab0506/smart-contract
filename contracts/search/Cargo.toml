@@ -26,3 +26,5 @@ testutils = ["soroban-sdk/testutils"]
 [[bin]]
 name = "search"
 path = "src/bin/search.rs"
+
+/////////////////////////////////////
