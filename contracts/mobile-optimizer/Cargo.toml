@@ -26,3 +26,5 @@ testutils = ["soroban-sdk/testutils"]
 [[bin]]
 name = "mobile-optimizer"
 path = "src/bin/mobile_optimizer.rs"
+
+/////////////////////////////////////
